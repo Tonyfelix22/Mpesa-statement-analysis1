@@ -25,4 +25,4 @@ This project analyzes my Mpesa usage, transaction rates fuliza limits and patter
 
 
 ## Author
-Tony felixa
+Tony felix
